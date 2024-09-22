@@ -1,0 +1,10 @@
+{
+    "manifest_version": 3,
+    "name": "Gerador de Senhas Aleatórias",
+    "version": "1.0",
+    "description": "Uma extensão simples para gerar senhas aleatórias.",
+    "action": {
+      "default_popup": "../src/popup.html"
+    },
+    "permissions": []
+  }
